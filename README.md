@@ -1,5 +1,10 @@
 # Welcome to your Expo app 👋
 
+![Uploading simulator_screenshot_DA6A70FE-FA29-4957-9451-40CED90F6942.png…]()
+![Uploading Simulator Screenshot - iPhone 16e - 2026-05-09 at 20.25.00.png…]()
+![Uploading Simulator Screenshot - iPhone 16e - 2026-05-09 at 20.16.37.png…]()
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
